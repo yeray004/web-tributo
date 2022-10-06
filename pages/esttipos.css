@@ -1,0 +1,62 @@
+/*  INICIO TL   */
+.titulo-tipos {
+    font-family:Lobster;
+    src: url(fuentes/Lobster-Regular.ttf);
+    font-weight: lighter;
+    font-size: 70px;
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    text-align: center;
+    color: #3b1c3e;
+}
+
+.h1{
+    font-weight: lighter;
+}
+
+.li-inicio{
+    display: flex;
+    align-items: center;
+}
+
+.li-inicio2{
+    text-align: center;
+    font-size: 40px;
+    padding-right: 5%;
+    list-style: none;
+}
+
+/*  CARTAS  */
+.card{
+    padding: 25px;
+    margin: 10px;
+    border: 0px;
+    background-color: #B6A0E6;
+    border-radius: 10px;
+}
+
+.card-img-top{
+    width: 100%;
+}
+
+.card-body{
+
+}
+
+.card-text{
+    text-align: center;
+    font-size: 27px;
+    margin: 28px 0px 0px 0px;
+}
+
+.li-card{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 0px;
+}
+
+.redes{
+    margin: 50px 50%;
+}

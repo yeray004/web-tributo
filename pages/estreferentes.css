@@ -1,0 +1,74 @@
+
+
+h1{
+    font-family:Lobster;
+    src: url(fuentes/Lobster-Regular.ttf);
+    font-weight: lighter;
+}
+
+.contenedor-inicio{
+    position: relative;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    width: 99%;
+    margin: 0px;
+}
+
+.foto-inicio{
+    width:100%;
+    margin: 10px 0px 10px 7px;
+}
+
+.text-tit-inicio{
+    position: absolute;
+    top: 10%;
+    left:43%;
+    font-size: 60px;
+    text-align: center;
+    background-color: #B6A0E6;
+    color: #3b1c3e;
+    padding: 15px 40px;
+    border-radius: 10px;
+}
+
+
+.text-inicio{
+    position: absolute;
+    top: 70%;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 25px 5%;
+}
+
+/*  TABLA DE REFERENTES     */
+
+.nombres-table{
+    font-size: 70px;
+    margin: 58px 0px 0px 0px;
+    text-align: center;
+}
+
+.img-table{
+    width:600px;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+.text-table{
+    text-align: center;
+    font-size: 25px;
+    padding: 0px 20px;
+}
+.img-table-carrusel{
+    width: 600px;
+    margin: 0px 30px;
+}
+
+.text-carrusel{
+    background-color: #B6A0E6;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px 15%;
+    text-align: center;
+}
